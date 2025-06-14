@@ -1,0 +1,9 @@
+Bu kod, iki sayı ile toplama, çıkarma ve çarpma işlemleri yapan bir Hesap sınıfı tanımlar. Sınıf kullanılarak işlemler gerçekleştirilir ve sonuçlar ayrı ayrı veya tümüyle birlikte yazdırılır.
+
+
+
+
+
+
+
+
